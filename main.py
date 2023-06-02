@@ -10,7 +10,7 @@ import json
 import requests
 import openpyxl
 import os
-import pathlib
+#import pathlib
 from bs4 import BeautifulSoup
 import shutil
 

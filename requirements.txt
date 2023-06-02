@@ -15,7 +15,7 @@ openpyxl==3.0.10
 pathlib-1.0.1
 beautifulsoup4==4.11.1
 bs4-0.0.1
-
+pytest-shutil-1.7.0
 
 
 
